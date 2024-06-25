@@ -8,7 +8,7 @@ local r3_0 = "Unknown Game"
 if r1_0 and r2_0 then
   r3_0 = r2_0.Name
 end
-  local r5_0 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+  local r5_0 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Forsakenxys/Lolhub/main/beecon_src.lua"))()
   local r6_0 = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
   local r7_0 = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
   local r8_0 = r5_0:CreateWindow({
